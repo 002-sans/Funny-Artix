@@ -14,7 +14,7 @@ Funny Artix n'a pas été fait par moi, le bot était rempli de bug et des comma
 - [⚙・Config](#config)
 
 ```
-> Anti Raid
+> Commandes Anti Raid
 > Commandes Utilitaires
 > Commandes Modérations
 > Commandes Admin
